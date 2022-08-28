@@ -1,10 +1,10 @@
 import './assets/styles/custom.scss'
 import './App.css';
-
+import Home from 'pages/Home';
 
 const App = () => {
   return (
-    <h1>Hello DSDesign</h1>
+    <Home />
   );
 }
 

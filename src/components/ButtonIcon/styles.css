@@ -1,0 +1,53 @@
+.btn-container {
+  display: flex;
+  background-color: #ededed;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 576px;
+}
+
+.btn-container button { 
+  background-color: #00285f;
+  align-items: center;
+  width: 126px;
+  height: 40px;
+}
+
+.btn-container button:hover { 
+  background-color: #00285f;
+}
+
+.btn h6 {
+  color: #fff;
+  font-size: 12px;
+  width: 108px;
+  align-items: center;
+  text-transform: uppercase;
+  justify-content: space-around;
+}
+
+.btn-icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 220px;
+  height: 50px;
+  border-radius: 0px 10px 10px 0px;
+}
+
+@media (min-width: 576px) {
+  .btn-icon-container {
+    width: 220px;
+    height: 50px;
+    font-size: 18px;
+    font-style: normal;
+  }
+
+  .btn{
+    width: 300px;
+    font-size: 18px;
+  }
+
+ 
+}
