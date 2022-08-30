@@ -4,11 +4,7 @@
 }
 
 .nav-logo-text {
-  color: #00285F;;
-}
-
-.nav-logo-text:hover {
-  color: #00285F;
+  color: #00285f;
 }
 
 .main-menu {
@@ -20,14 +16,15 @@
 
 .main-menu a {
   font-style: normal;
-  color: rgba(255, 255, 255, 0.5);
+  color: #00285f;
 }
 
 .main-menu a.active {
   font-weight: bold;
-  color: #00285F;;
+  color: #00285f;
 }
 
 .main-menu a:hover {
-  color: #00285F;
+  color: #00285f;
 }
+
