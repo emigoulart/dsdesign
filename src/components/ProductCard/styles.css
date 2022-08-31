@@ -34,14 +34,17 @@
     font-size: 18px;
     color: #000000;
     align-items: center;
+    width: 260px;
     margin-bottom: 10px;
-    padding: 0px 0px 10px 60px;
+    margin-left: 65px;
+    padding: 0px 10px 10px 65px;
   }
   .card-bottom-container p {
     font-size: 14px;
     font-style: italic;
     align-items: center;
     color: #585858;
+    margin-left: 65px;
     width: 264px;
   }
 
@@ -52,6 +55,30 @@
     align-items: center;
     padding: 10px;
     width: 257px;
+    margin-left: 65px;
   }
+
+  @media (min-width: 576px) {
+    .btn-info  {
+      padding: 10px 10px 10px 10px;
+      font-size: 18px;
+      margin-left: 5px;
+      width: 200px;
+    }
+    .card-bottom-container h6{
+      padding: 0px 10px 10px 10px;
+      margin-left: 25px;
+   
+    }
+
+    .card-bottom-container p {
+      padding: 0px 10px 10px 10px;
+      margin-left: 5px;
+      width: 200px;
+      margin-left: 15px;
+    }
+  }
+    
+    
   
   
