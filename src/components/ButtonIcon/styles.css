@@ -3,7 +3,6 @@
     background-color: #00285f;
     align-items: center;
     width: 184px;
-    justify-content: space-around;
     border-radius: 5px;
     height: 40px;
   }
@@ -11,9 +10,8 @@
   .principal h6 {
     color: #ffff;
     font-size: 14px;
-    width: 184px;
+    width: 170px;
     align-items: center;
-    justify-content: space-around;
     text-transform: uppercase;
   }
 
