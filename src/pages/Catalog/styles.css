@@ -10,9 +10,22 @@
 }
 
 .top-container textarea {
+  align-items: center;
   background-color: #ffff;
+  border-color: #ffff;
+  border-radius: 5px;
   color:#A7A7A7;
   height: 40px;
+  overflow:hidden;
   padding: 10px 20px 24px 20px;
   margin-left: 20px;
+  width: 300px;
+}
+
+@media (min-width: 576px) {
+  .top-container textarea  {
+    padding: 10px 10px 10px 10px;
+    font-size: 18px;
+    width: 450px;
+  }
 }

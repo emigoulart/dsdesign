@@ -22,7 +22,7 @@ const Home = () => {
           <ButtonIcon />
         </Link>
         <div>
-          <h5>Comece agora a navegar</h5>
+          <p>Comece agora a navegar</p>
         </div>
       </div>
     </>

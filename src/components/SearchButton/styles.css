@@ -1,7 +1,7 @@
 .btn h6 {
     color: #ffff;
     font-size: 14px;
-    width: 60px;
+    width: 80px;
     align-items: center;
     text-transform: uppercase;
   }
@@ -12,8 +12,8 @@
     background-color: #00285f;
     align-items: center;
     justify-content: space-around;
-    width: 80px;
+    width: 90px;
     height: 40px;
-    padding: 10px 10px 20px 0px;
+    padding: 10px 10px 20px 5px;
   }
 
